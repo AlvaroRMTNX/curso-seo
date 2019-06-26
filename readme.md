@@ -14,11 +14,11 @@ Páginas para análisis del curso de SEO.
 
 [Validator W3C](https://validator.w3.org): Herramienta de la W3C que te permite analizar una página web para saber si existen errores de sintaxis HTML5.
 
-[Moz](https://moz.com/free-seo-tools)
+[MozBar](https://moz.com/products/pro/seo-toolbar): Nos entrega metricas del sitio web como: **AUTORIDAD DE DOMINIO** ,**AUTORIDAD DE PÁGINA**, **Title**, **Descripción**, **Palabras Clave**, entre otros.
 
 [Cognitive Seo](https://cognitiveseo.com/): Herramienta que te permite medir el trafico SEO de tu sitio web, te entrega un reporte de las palabras clave de acuerdo a la medición que hace.
 
-[A Hrefs](https://ahrefs.com/es/)
+[A Hrefs](https://ahrefs.com/es/): Esta herramienta es bastante conocida para la detección de enlaces, y se usa para estrategia de linkbuilding.
 
 [Traffic Travis](https://www.traffictravis.com/): Herramienta gratuita que se puede descargar para medir el nivel de trafico que tiene tu página web.
 
