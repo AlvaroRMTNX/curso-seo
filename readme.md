@@ -22,6 +22,10 @@ Páginas para análisis del curso de SEO.
 
 [Traffic Travis](https://www.traffictravis.com/): Herramienta gratuita que se puede descargar para medir el nivel de trafico que tiene tu página web.
 
+[XML SiteMaps](https://www.xml-sitemaps.com/): Herramienta que te permite crear un sitemap xml para tu sitio web. Hace un escaneo completo del sitio web y te genera el archivo con los sitios que detecto.
+
+[My Sitemap Generator](https://www.mysitemapgenerator.com/en/start/free.str.html): Herramienta que te permite crear un sitemap html para tu sitio web, analiza toda la estrucutura de las páginas que exiten y te genera el archivo.
+
 [PageSpeed](https://developers.google.com/speed/pagespeed/insights/): Herramienta que nos permite medidir la velocidad de carga de un sitio web y nos entrega un reporte para poder optimizarlo.
 
 [GT Metrix](https://gtmetrix.com/): Herramienta que nos permite medidir la velocidad de carga de un sitio web y nos entrega un reporte para poder optimizarlo.
