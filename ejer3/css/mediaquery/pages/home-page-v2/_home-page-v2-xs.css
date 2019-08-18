@@ -1,0 +1,14 @@
+.home-v2 .home-page-banner .image-caption {
+  padding-top: 20px; }
+  .home-v2 .home-page-banner .image-caption h1 {
+    font-size: 20px;
+    line-height: 20px; }
+  .home-v2 .home-page-banner .image-caption p {
+    margin-bottom: 5px;
+    font-size: 14px; }
+  .home-v2 .home-page-banner .image-caption .appoinment-form {
+    bottom: 30px;
+    position: relative;
+    margin-top: 70px;
+    padding: 15px 20px;
+    padding-top: 15px; }
