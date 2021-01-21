@@ -10,8 +10,6 @@ Páginas para análisis del curso de SEO.
 
 [Search Console](https://search.google.com/search-console/about): Herramienta de google que te permite monitorear el comportamiento de tu sitio web.
 
-[Conatador de Palabras](https://www.contadordepalabras.com/): Herramienta que te permite contar la cantidad de palabra que tiene un texto.
-
 [Validator W3C](https://validator.w3.org): Herramienta de la W3C que te permite analizar una página web para saber si existen errores de sintaxis HTML5.
 
 [MozBar](https://moz.com/products/pro/seo-toolbar): Nos entrega metricas del sitio web como: **AUTORIDAD DE DOMINIO** ,**AUTORIDAD DE PÁGINA**, **Title**, **Descripción**, **Palabras Clave**, entre otros.
